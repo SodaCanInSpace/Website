@@ -1,0 +1,21 @@
+This is a project to create a website for the university IIE MSA - This project is to test my skill and knowledge gain from 2 years of learning under the institution.
+This project is to replace the previous Monash IT society website.
+The purpose is to create a website that will be the cultural hub of the club MITS (Mighty IT society), this website will catalog and record moments in the history of the club, create a forum for IIE students to communicate and share content with one another,
+keep students up-to-date with events, news, topics of interest.
+The goal is to also make the club more attractive to potential sponsers.
+Ultimately it is a personal learning experience, a test to see what I can do and how I tackle difficult and ambigous problems.
+
+Goals that the website must achieve:
+Amazing UI
+Web 2.0 capabilities 
+Interactive environment
+Fast response times
+Must be scalable and managible
+
+This project is ambitious, a massive amount of time and effort will be needed for the completion of this project and will also require money as well.
+
+What will I use:
+Plan to use the Lift web framework as the backbone of the project.
+I plan to follow the agile system development life-cycle, to better understand it.
+I plan to use a modern database for my back-end e.g MongoDB.
+
